@@ -42,6 +42,10 @@ java -jar target/flex-management-system-0.0.1-SNAPSHOT.jar
 Access the application:
 http://localhost:8080/
 
+Login Details 
+ Admin Dashboard - UserName Admin Password - admin
+ Employee Dashboard - UserName User Password - user
+
 Screenshots
 Login Page
 ![image](https://user-images.githubusercontent.com/96221336/232319439-c56f2331-b3e0-4838-869f-9bece4ea5029.png)
