@@ -52,8 +52,7 @@ Employee Dashboard
 Admin Panel
 ![image](https://user-images.githubusercontent.com/96221336/232319549-52b07988-5cdc-4eee-acfc-03c83ee14141.png)
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
 
 
