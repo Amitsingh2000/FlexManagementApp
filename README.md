@@ -25,7 +25,7 @@ MySQL
 ------------Installation----------------
 
 Clone the repository:
-git clone https://github.com/your_username/flex-management-system.git
+git clone - gh repo clone Amitsingh2000/FlexManagementApp
 
 Create a MySQL database and update the application.properties file:
 spring.datasource.url=jdbc:mysql://localhost:3306/db_name
