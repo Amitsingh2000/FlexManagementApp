@@ -48,13 +48,14 @@ Login Details
 
 Screenshots
 Login Page
-![image](https://user-images.githubusercontent.com/96221336/232319439-c56f2331-b3e0-4838-869f-9bece4ea5029.png)
+![Login_Page](https://user-images.githubusercontent.com/96221336/232455423-793ae2f3-4d6d-4b1c-816d-5a2f67d446fe.png)
+
 
 Employee Dashboard
-![image](https://user-images.githubusercontent.com/96221336/232319516-13c02778-ce46-47a6-a6b5-8aacd7f6e851.png)
+![Employee_Dashboard](https://user-images.githubusercontent.com/96221336/232455294-3d6a06cc-cf3d-4218-91bb-7a255fbfdb63.png)
 
 Admin Panel
-![image](https://user-images.githubusercontent.com/96221336/232319549-52b07988-5cdc-4eee-acfc-03c83ee14141.png)
+![Admin_Dashboard](https://user-images.githubusercontent.com/96221336/232455487-da809f61-d6d9-49e0-b797-fc41b9dcdfa8.png)
 
 
 
