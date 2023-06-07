@@ -1,4 +1,4 @@
-Flex Management System
+###Flex Management System
 
 This is a web application developed using Spring Boot, Spring Data, and Spring Security to manage customers and employee details. It has a user-friendly interface for customers to manage their account details and an admin panel for employees to manage customer accounts, employee details, location details, and mounter details.
 
